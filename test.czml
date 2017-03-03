@@ -37,7 +37,7 @@
           ]
         }
       ],
-      "font":"bold 10pt Segoe UI Semibold",
+      "font":"bold 10pt Meiryo UI Semibold",
       "horizontalOrigin":"LEFT",
       "outlineColor":{
         "rgba":[
@@ -57,7 +57,7 @@
         }
       ],
       "style":"FILL",
-      "text":"Vehicle",
+      "text":"車",
       "verticalOrigin":"CENTER"
     },
     "path":{
